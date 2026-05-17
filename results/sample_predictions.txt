@@ -1,0 +1,33 @@
+Sample Predictions comparing Baseline (TF-IDF) vs LSTM
+============================================================
+
+Text: i am checking if there is any scheduled maintenance today
+Actual: neutral | Baseline Pred: neutral | LSTM Pred: neutral
+------------------------------------------------------------
+Text: the app experience is smooth and reliable i appreciate the quick response
+Actual: positive | Baseline Pred: positive | LSTM Pred: neutral
+------------------------------------------------------------
+Text: can you confirm whether my ticket has been assigned
+Actual: neutral | Baseline Pred: neutral | LSTM Pred: neutral
+------------------------------------------------------------
+Text: i have raised multiple tickets but nobody has fixed the problem my ticket number is 88027
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
+Text: billing is incorrect and i was charged twice this month
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
+Text: i want to cancel because the service quality is poor and unreliable
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
+Text: the internet speed is slow and customer care is not helping
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
+Text: can you share the status of my router request
+Actual: neutral | Baseline Pred: neutral | LSTM Pred: neutral
+------------------------------------------------------------
+Text: the product quality is bad and i regret purchasing it
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
+Text: i have raised multiple tickets but nobody has fixed the problem my ticket number is 57951
+Actual: negative | Baseline Pred: negative | LSTM Pred: neutral
+------------------------------------------------------------
